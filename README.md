@@ -1,10 +1,10 @@
 # Turn-Based-RPG-Script-Presentations
 A few scripts to serve as a testament to what I can make. This is only 4 scripts of the unfinished project's core system scripts, though some of the most important ones.
 
-THE PROJECT IS CURRENTLY UNFINISHED, AND IT WILL PROBABLY REMAIN UNFINISHED AS IT'S TOO LARGE-SCALE OF A PROJECT TO COMPLETE ON MY OWN. I have made the project's entirety in about 2 months.
+THE PROJECT IS CURRENTLY UNFINISHED, AND IT WILL PROBABLY REMAIN UNFINISHED AS IT'S TOO LARGE-SCALE OF A PROJECT TO COMPLETE ON MY OWN. Although I do plan to at least push a playable demo within a few months. I have made the project's entirety in about 3-4 months so far.
 
 The game currently has, but is not limited to, these systems implemented by me & me alone:
-Inventory, stat distribution, status ailments, buffs/debuffs, equipments, enemy mobs, active/passive skills, shopping, crafting, multiple save files, skill trees, NPCs & dialogue, items that can be used in and out of battles, player party system, weapon holstering, QTEs, and more.
+Inventory, stat point distribution & level up system, status ailments, buffs/debuffs, equipment system, enemy mobs & 1-5 player co-op turn-based combat, active/passive skills, shopping, crafting, multiple save files, skill trees, NPCs & dialogue, items that can be used in and out of battles, player party system, weapon holstering, QTEs, and more.
 NOT EVERY SYSTEM IS VIEWABLE IN THE GAME SINCE THE GAME IS UNFINISHED, but the game can be viewed on this roblox page:
 https://www.roblox.com/games/17182414693/Untitled-Game
 
