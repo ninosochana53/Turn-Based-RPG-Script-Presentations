@@ -1,5 +1,5 @@
 # Turn-Based-RPG-Script-Presentations
-A few scripts to serve as a testament to what I can make. This is only 4 scripts of the unfinished project's core system scripts, though some of the most important ones.
+A few scripts to serve as a testament to what I can make. This is only 4 scripts of the unfinished project's core system scripts, though some of the most important ones. I have many snippits of the game functioning, but the MP4 files are too large to poste onto this repository. They can instead be viewed in this google drive: https://drive.google.com/drive/folders/17hdaOcZHaS_hk3i-qtH-AxpYx0Oq5bOq?usp=sharing
 
 THE PROJECT IS CURRENTLY UNFINISHED, AND IT WILL PROBABLY REMAIN UNFINISHED AS IT'S TOO LARGE-SCALE OF A PROJECT TO COMPLETE ON MY OWN. Although I do plan to at least push a playable demo within a few months. I have made the project's entirety in about 3-4 months so far.
 
@@ -7,6 +7,8 @@ The game currently has, but is not limited to, these systems implemented by me &
 Inventory, stat point distribution & level up system, status ailments, buffs/debuffs, equipment system, enemy mobs & 1-5 player co-op turn-based combat, active/passive skills, shopping, crafting, multiple save files, skill trees, NPCs & dialogue, items that can be used in and out of battles, player party system, weapon holstering, QTEs, and more.
 NOT EVERY SYSTEM IS VIEWABLE IN THE GAME SINCE THE GAME IS UNFINISHED, but the game can be viewed on this roblox page:
 https://www.roblox.com/games/17182414693/Untitled-Game
+
+The game is in very early stages still, and there is no actual game to be played. All you can do is fight enemies, level up to the level cap of 20, talk to a few NPCs, grind item drops + gold from combats, and create save files. There is no world to explore yet, and most visual things in the game are placeholders as of right now.
 
 You can also view some of my other games on my Roblox profile page, which is over here:
 https://www.roblox.com/users/39098786/profile
